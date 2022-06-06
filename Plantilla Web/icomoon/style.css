@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ctzn3f');
+  src:  url('fonts/icomoon.eot?ctzn3f#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ctzn3f') format('truetype'),
+    url('fonts/icomoon.woff?ctzn3f') format('woff'),
+    url('fonts/icomoon.svg?ctzn3f#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-onda:before {
+  content: "\e91d";
+}
+.icon-reloj:before {
+  content: "\e94e";
+}
+.icon-tuerca:before {
+  content: "\e994";
+}
+.icon-barras:before {
+  content: "\e99d";
+}
+.icon-ojo:before {
+  content: "\e9ce";
+}
+.icon-cuadrado:before {
+  content: "\ea1e";
+}
+.icon-flecha1:before {
+  content: "\ea32";
+}
+.icon-flecha2:before {
+  content: "\ea41";
+}
