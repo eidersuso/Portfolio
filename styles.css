@@ -256,7 +256,7 @@ a:hover{
 footer{
     display: flex;
     justify-content: center;
-    padding: 50px 30px;
+    padding: 50px 30px 30px 30px;
     background-color: #f8f5f5;
 }
 
@@ -272,7 +272,7 @@ footer{
 
     .cuadrado{
         width: 48%;
-        margin: 4%;
+        margin: 1%;
         height: 460px;
     }
 
