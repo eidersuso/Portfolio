@@ -7,4 +7,4 @@
 - CSS
 - Javascript
 
-https://eidersuso.github.io/Web-Portfolio/
+https://eidersuso.github.io/Portfolio/
