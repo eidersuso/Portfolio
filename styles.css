@@ -134,6 +134,7 @@ a:hover{
     height: 450px;
     background-color: #ffffff;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .dark .cuadrado{
@@ -274,6 +275,7 @@ footer{
         width: 48%;
         margin: 1%;
         height: 600px;
+        margi-bottom: 160px;
     }
 
 }
